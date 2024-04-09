@@ -1,2 +1,2 @@
-# fary-essentials
-Essentials addon for minecraft bedrock edition 
+# Fary-essentials
+an Essentials addon for minecraft bedrock edition 
